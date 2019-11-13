@@ -1,6 +1,6 @@
  const express = require('express')
 
-// resebendo servidor express e passando paramentros para um modulo
+// recebendo servidor express e passando paramentros para um modulo
  module.exports = function(server){
 
     // Definir URL base para todas as rotas
